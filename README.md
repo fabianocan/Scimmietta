@@ -12,4 +12,4 @@ Questo è su una linea diversa
 
 servono due a capi per mandare a capo davvero
 
-é utile perchè ad ogni riga è associato il suo contenuto, così da poterlo confrontare più velocemente
+é utile perchè ad ogni riga è associato il suo contenuto, così da poterlo confrontare più veocemente
