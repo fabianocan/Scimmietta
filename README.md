@@ -3,7 +3,8 @@
 
 1. hakuna
 2. matata
-3. e niente
+3. tuutta frenesia
+4. e niente
 
 Elenco finito
 
